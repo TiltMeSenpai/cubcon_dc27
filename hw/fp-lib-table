@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name board-schematics)(type KiCad)(uri ${KIPRJMOD}/board-schematics.pretty)(options "")(descr ""))
+)
