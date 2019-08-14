@@ -1,0 +1,3 @@
+[submodule "DC27 Board/external/u8g2"]
+	path = DC27 Board/external/u8g2
+	url = https://github.com/olikraus/u8g2.git
